@@ -18,7 +18,7 @@ covertly. The use of Internet infrastructure for building such a channel can be 
 information as well as communicate with enhanced privacy. Hence, the Internet can be
 used to establish such channels to hide information and communicate privately between
 two endpoints. Even though a major motivation for using such channels could be for
-crime, hacking, espionage among others; covert channels nd extensive applications in
+crime, hacking, espionage among others; covert channels and extensive applications in
 military communications, privacy enhancing technologies, censorship circumvention and
 cyber offense.
 
