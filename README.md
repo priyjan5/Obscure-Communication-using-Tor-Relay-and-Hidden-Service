@@ -3,16 +3,16 @@
 **************************************************************************************************
 
 Covert/Obscure Communication is a field in Information Security which is being extensively
-researched and implemented as it has a signicant impact on today^as cyber age. With the
-advent of quantum computing, socialfi networking, censorship and extensive surveillance; it
-is becoming extremely arduous to preserve one^as privacy or maintain consistent anonymity
+researched and implemented as it has a signicant impact on today's cyber age. With the
+advent of quantum computing, social networking, censorship and extensive surveillance; it
+is becoming extremely arduous to preserve one's privacy or maintain consistent anonymity
 over the web. The idea of distributing information covertly has been practiced since ancient
 times. Ancient Egyptians communicated covertly using the hieroglyphic script, a series of
-symbols representing a message. The Greeks used ^ahidden writing^a which is the derivative
+symbols representing a message. The Greeks used a hidden writing which is the derivative
 of steganography.
 
 Even though it has become rudimentary knowledge that extensive surveillance leads to
-Internet users being monitored, the Web having a distributed architecture becomes an
+Internet users being monitored, the Web, having a distributed architecture, becomes an
 important medium which can be utilized to build obscure channels for communicating
 covertly. The use of Internet infrastructure for building such a channel can be made to hide
 information as well as communicate with enhanced privacy. Hence, the Internet can be
